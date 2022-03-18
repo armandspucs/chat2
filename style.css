@@ -29,7 +29,7 @@ body
 {
     background: whitesmoke;
     height: 300px;
-    color: blue;
+    color: red;
     padding: 5px;
     overflow: scroll;
 }
